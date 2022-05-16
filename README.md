@@ -15,6 +15,9 @@ A grow mind set is one that if you **never stop putting in the work** to learn s
 - [class one notes](dayonereadingnotes.md)
 
 
+### READING NOTES links
+- https://github.com/DariusO92/Reading-notes-201
+
 ### Reasources 
 
 - https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html
