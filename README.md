@@ -22,3 +22,5 @@ A grow mind set is one that if you **never stop putting in the work** to learn s
 ### Reasources 
 
 - https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html
+- https://www.baeldung.com/java-loops
+
