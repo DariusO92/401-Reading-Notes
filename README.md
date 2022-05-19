@@ -16,6 +16,7 @@ A grow mind set is one that if you **never stop putting in the work** to learn s
 - [class one notes](dayonereadingnotes.md)
 - [class two notes](daytworeadingnotes.md)
 - [class three notes](daythreereadingnotes.md)
+- [class four notes](dayfourreadingnotes.md)
 
 
 ### READING NOTES links
