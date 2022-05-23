@@ -12,9 +12,15 @@ A grow mind set is one that if you **never stop putting in the work** to learn s
 - If the work gets to challenging take a few moments and get your mind off work.
 
 ## Table of Contents
+- [command line assignment](command-line-practice.md)
 - [class one notes](dayonereadingnotes.md)
 - [class two notes](daytworeadingnotes.md)
+<<<<<<< HEAD
 - [class six notes](daysixreadingnotes.md)
+=======
+- [class three notes](daythreereadingnotes.md)
+- [class four notes](dayfourreadingnotes.md)
+>>>>>>> 5fe3f2aa9490a882afc571254907da111f7cbaa1
 
 
 ### READING NOTES links
